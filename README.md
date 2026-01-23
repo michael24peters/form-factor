@@ -4,4 +4,6 @@ This repository rederives the eta form factor from the analysis note that found 
 
 The reason this is done is that this normalization channel is expected to be the overwhelming majority source of uncertainty in the measurement of the eta -> mu+ mu- branching ratio. Most of the uncertainty comes at large q^2 values. If we restrict this range and only look at relatively small q^2 values, we can use a form factor whose lambda parameter (which corresponds to the branching ratio uncertainty) has the smallest possible uncertainty value. This also minimizes the uncertainty in the eta -> mu+ mu- branching ratio measurement, thus giving us a potentially novel and competitive measurement and the purpose of this analysis (and, by extension, my thesis).
 
-Analysis paper: "Investigation of the electromagnetic structure of the eta meson in the decay eta -> mu+ mu- gamma" Authors: DJHELYADIN, et. al. Date: 18 June 1980
+Analysis paper: "Investigation of the electromagnetic structure of the eta meson in the decay eta -> mu+ mu- gamma"  
+Authors: DJHELYADIN, et. al.  
+Date: 18 June 1980  
